@@ -1,14 +1,3 @@
-import java.util.Random;
-
-/*  Student information for assignment:
- *
- *  UTEID: cjd2682
- *  email address: duncan.chris@utexas.edu
- *  Grader name: Stas Ilinskiy
- *  Number of slip days I am using: 0
- *  
- */
-
 /* 
  * Experiment #1: With 3000 x 3000 matrix and 1000 tests, average time = 0.006756885962000003
  * 				  With 6000 x 6000 matrix and 1000 tests, average time = 0.028130874954999982
@@ -17,13 +6,6 @@ import java.util.Random;
  * Experiment #2: With 200 x 200 matrix and 1000 tests, average time = 0.013700953954
  * 				  With 400 x 400 matrix and 1000 tests, average time = 0.20517358862000015
  * 				  With 800 x 800 matrix and 1000 tests, average time = 2.2257151576310017
- * 
- * 1. I would expect the program to take around .4 seconds on average
- * 2. I think the Big O of the add method is O(n^2), and my timing does support this
- * 3. I would expect the program to take around 22 seconds on average
- * 4. I think the Big O of the multiply method is O(n^4), and my timing does support this
- * 5. The max size of a matrix I could create was 21162 x 21162, which means there would be 447,830,244 elements.
- * 	  This results in 1,791,320,976 bytes being used, or 1.66829766333103 gigabytes of memory.
  * 
  */
 

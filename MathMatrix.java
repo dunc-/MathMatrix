@@ -1,19 +1,3 @@
-//MathMatrix.java - CS314 Assignment 2
-
-/*  Student information for assignment:
- *
- *  On my honor, Chris Duncan, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  UTEID: cjd2682
- *  email address: duncan.chris@utexas.edu
- *  Grader name: Stas Ilinskiy
- *  Unique section number: 51750
- *  Number of slip days I am using: 0
- *  
- */
-
-
 /**
  * A class that models systems of linear equations (Math Matrices)
  * as used in linear algebra.
